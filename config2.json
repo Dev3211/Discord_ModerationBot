@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "prefix": "m/",
+  "secretrole": "secret-role-for-the-create-rank-command",
+  "joinlog": "join-log",
+  "modlog": "mod-log"
+}
+
